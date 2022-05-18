@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zigad
 - 👀 I’m interested in Exploits / Reaserch / Pentesting / Hacking of everyday objects for educational purporses
 - 🌱 I’m currently learning all sorts of things, current upcoming projects are mostly Ham Radio oriented and of course just everyday "hacking"
-- 💞️ I’m looking to collaborate on interesting projects that help me speed things up in life
+- 💞️ I’m looking to collaborate on interesting projects that help me speed things up in life or just any interesting projects I see on here
 - 📫 How to reach me ... I'll find you ;)
